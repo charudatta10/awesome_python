@@ -2,11 +2,19 @@
 
 A curated list of powerful Python libraries for modular orchestration, reproducible environments, agentic automation, and educational pipelines. Designed for educators, researchers, and remixers.
 
+## Sutra
+Minimalism, simplicity, absence of redundancy, and comprehensive coverage are the four pillars of pure code.
+
+## Haiku
+Simplicity blooms
+Redundancy fades away
+Truth guides whole system
+
 ## 🚀 Core Libraries
 
 | Category | Libraries |
 |----------|-----------|
-| **Environment & Packaging** | `uv`, `flit`, `pre-commit`, `poe the poet`, `pyproject.toml` |
+| **Environment & Packaging** | `uv`, `flit`, `pre-commit`, `poe the poet` |
 | **Web & APIs** | `fastapi`, `uvicorn`, `typer`, `zeromq` |
 | **Agentic & ML** | `ray`, `faiss`, `torch`, `ollama` |
 | **Data & Viz** | `numpy`, `pandas`, `matplotlib`, `streamlit` |
